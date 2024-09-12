@@ -9,7 +9,7 @@ country: "nl"
 language: "en" 
 latitude: "52.356342"
 longitude: "4.952330"
-humandate: "11 & 13 March 2024"
+humandate: "14 & 17 October 2024"
 humantime: "9:30-17:30" 
 startdate: 2024-10-14
 enddate: 2024-10-17
